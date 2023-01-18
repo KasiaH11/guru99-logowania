@@ -2,6 +2,7 @@ Feature: Logowanie do aplikacji
 
 
 
+
   Scenario: Poprawne logowanie do aplikacji
     Given Uzytkownik otwiera przegldarke
     And Uzytkownik wpisuje adres strony internetowej
